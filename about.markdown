@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## My Journey
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My journey with computers started when I was younger than 10 years, I would go to my neighbour's house to tinker with their desktop. I learned the basics, such as navigating the file system, and installed games which my friends and I would play. That experience really helped to spark my curiosity about computers. In high school I studied computers and got the basics about computer hardware and software and at the end made an access project about a management system.  
+In campus, I have studied computers at a much deeper level and it has allowed me to choose a career path as a System administrator which I am currently pursuing. I have worked as a IT support attachee. This working experience has allowed me to work on servers, LAN connections, computer hardware and peripheral devices, and installation and update of software.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Technologies and tools
 
+* Languages: Python, Markdown
+* Backend: Django
+* Tools: Git
 
-[jekyll-organization]: https://github.com/jekyll
+## What I'm learning
+
+Currently I'm diving deeper into IT support, Python, Django and front-end development.
+
+## My goals
+
+1. Build a web application.
+2. Share knowledge.

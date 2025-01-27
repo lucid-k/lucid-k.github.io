@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+title: Home
 ---
+
 # Welcome
 
 Hello, My name is **Anthony Maiyo**. I identify by _he/him_. I am still an undergraduate at the University of Eldoret studying BSc. Computer Science. I hope to graduate at the end of the year 2025, fingers crossed. I have an interest of anything computer oriented. I find computers interesting and I am amazed at the diverse fields it can be applied.  
