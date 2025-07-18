@@ -11,15 +11,15 @@ In campus, I have studied computers at a much deeper level and it has allowed me
 
 ## Technologies and tools
 
-* Languages: Python, Markdown
+* Languages: Python, Markdown,C
 * Backend: Django
 * Tools: Git
 
 ## What I'm learning
 
-Currently I'm diving deeper into IT support, Python, Django and front-end development.
+Currently I'm diving deeper into IT support, Python, Django,C and front-end development.
 
 ## My goals
 
-1. Build a web application.
+1. Build applications.
 2. Share knowledge.
